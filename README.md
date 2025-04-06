@@ -148,7 +148,7 @@ POSTGRES_DB=Nombre de la base de datos de PostgreSQL a utilizar
 POSTGRES_USER=Nombre de usuario de PostgreSQL
 POSTGRES_PASSWORD=Contraseña del usuario de PostgreSQL
 POSTGRES_HOST=Host donde se encuentra la base de datos de PostgreSQL
-POSTGRES_PORT=Puerto en el que se ejecuta la base de datos de PostgreSQL
+POSTGRES_PORT=Puerto en el que se ejecuta la base de datos de PostgreSQLhttps://github.com/facundo000/NEKODE_FG/blob/main/README.md
 
 #AUTH
 JWTAUTH_SECRET=Clave secreta utilizada para generar el token JWT
@@ -164,8 +164,10 @@ OPENAI_API_KEY=Clave de la API de OpenAI
 <br/>
 
 
-### Deploy 🚀🚀
+### Video demostración 🚀🚀
 
-Puedes encontrar nuestra API en el siguiente link: [https://link](https://nekode-rqas.onrender.com/api)
+[youtube](https://youtu.be/0GqxezGEx8M)
+
+
 
 
